@@ -1,4 +1,4 @@
-# Olympic-Swimming-History-1912-to-2020
+**Olympic Swimming (1912 to 2020) Data Visualization**
 Results of all Olympic swimming events from 1912 to 2020.
 
 **Context**
