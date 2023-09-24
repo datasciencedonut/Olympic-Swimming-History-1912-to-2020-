@@ -8,3 +8,6 @@ Swimming is one of the most popular Olympic sports where individual competitors 
 This dataset only focuses on results from competitive Olympic pool swimming. One row per competitor or relay team. Data is collected from the Olympics.com (https://olympics.com/en/olympic-games/tokyo-2020/results/swimming/men-s-100m-backstroke). 
 
 Data and webscraping code used to produce Tableau Dashboard (https://public.tableau.com/app/profile/data.science.donut/viz/AHistoryofOlympicSwimming/OlympicHistory).
+
+
+![Olympic History (1)](https://github.com/datasciencedonut/Olympic-Swimming-History-1912-to-2020-/assets/122229743/615f5cbf-7ebe-4b31-89aa-d75c7be95831)
