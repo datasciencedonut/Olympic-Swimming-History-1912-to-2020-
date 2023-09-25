@@ -1,4 +1,4 @@
-**Olympic Swimming (1912 to 2020) Data Visualization**
+# Olympic Swimming (1912 to 2020) Data Visualization
 
 Swimming is one of the most popular Olympic sports where individual competitors race over various distance events in butterfly, backstroke, breaststroke, freestyle, and individual medley. Additionally, four swimmers can take part in a freestyle or medley relay. A medley relay consists of four swimmers each swimming a different stroke - ordered as backstroke, breaststroke, butterfly, and freestyle - over a set distance. Swimming has been a sport at every modern Summer Olympics but has only been open to women since 1912.
 
